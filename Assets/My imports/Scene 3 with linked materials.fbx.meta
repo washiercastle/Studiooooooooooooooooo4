@@ -1,0 +1,675 @@
+fileFormatVersion: 2
+guid: f122f17908d4f364a9a61fbb947bdd9e
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: 8f2c18d089ceaad45b65fa371a6b7e73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black matte metal
+    second: {fileID: 2100000, guid: 0a1467b39faca134180ab8b7f0b6ca28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black metal
+    second: {fileID: 2100000, guid: 51fa246e079f6834d8ae773262698239, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black painted metal
+    second: {fileID: 2100000, guid: 0be5ed7be1f96854f87b93bd62c017ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black plastic
+    second: {fileID: 2100000, guid: 452521926c7c68d418e18dd48092ec47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blackboard
+    second: {fileID: 2100000, guid: abef8dca3bb220c44b12a50d33f47da9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book Cover Fabric Green
+    second: {fileID: 2100000, guid: e0182a50b5ba9f3479b32fba6728f16b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brushed used metal silver
+    second: {fileID: 2100000, guid: 98582a6e43838494b89d2ca3addb51f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet
+    second: {fileID: 2100000, guid: 1bfe5e5d32c92f742982a7fdfcf3fb70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceiling panel
+    second: {fileID: 2100000, guid: be1c95ac697e4984c86c06be0ad61761, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceramic Pottery Glazed
+    second: {fileID: 2100000, guid: 75e12430b10b99d47af8136ae685744e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome
+    second: {fileID: 2100000, guid: d7b45fac5182dbd4db8fcee956e84423, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete square
+    second: {fileID: 2100000, guid: 7006cab77d784dc418b589d70d72d93b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dirty white Bathroom tiles
+    second: {fileID: 2100000, guid: 29542e6fcebebba4d9cb0393c4460859, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Exit_Plastic
+    second: {fileID: 2100000, guid: 77ce14a570cbaae4aa172c04cf262480, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fabric Mesh
+    second: {fileID: 2100000, guid: 03f8321c87d2b344781018b1e9b3fdd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor tile_
+    second: {fileID: 2100000, guid: ef15085c103940a4d956e223f1835292, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light
+    second: {fileID: 2100000, guid: e0f62ab245164d9498a18f8949cda9b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.013
+    second: {fileID: 2100000, guid: 063ca70cd1a071a48a815cb78c191dc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal Galvanized Zinc
+    second: {fileID: 2100000, guid: b721aa65e922892429293320abcdf79b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal with rust and brush
+    second: {fileID: 2100000, guid: c1cb8f9b2555b0b4191d650d9777554a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Net_
+    second: {fileID: 2100000, guid: b35b807486f0f5b4b8a41b1efcab61a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Office Ceiling Lights
+    second: {fileID: 2100000, guid: 28879b094c2ae5843aba6eb87e11cbf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlasterPainted
+    second: {fileID: 2100000, guid: 3a668df3862e0ca4eb9a16f48f2563a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic
+    second: {fileID: 2100000, guid: dc83d9571de753041ad653c9ea45a2b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic Mold Dry Blast
+    second: {fileID: 2100000, guid: fd861b2e597c27a40a9352a26a2df9e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic yellow tiles
+    second: {fileID: 2100000, guid: 8fdb07717e621ff45be163d9b35c8e25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_ClayCeramicGlossy_5212_2K
+    second: {fileID: 2100000, guid: 4105140520f947449ac7af4d561c2496, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Procedural Grass
+    second: {fileID: 2100000, guid: e4ad9a8a92d522742a6bee183880090c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof Tiles Dark
+    second: {fileID: 2100000, guid: 29561a289a8eaa8458808f20f549cc53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rust Iron (Old Iron)
+    second: {fileID: 2100000, guid: a9dab894012e7e24a8c8eb9a06cb8812, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: The one.005
+    second: {fileID: 2100000, guid: 54d3dbff4e9c24847b9b02b430124b29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: The one.011
+    second: {fileID: 2100000, guid: 0923291b87ac99f45ac87b16f72ed553, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water Liquid
+    second: {fileID: 2100000, guid: f4bcc74157864df478b9f9c69772f82d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White
+    second: {fileID: 2100000, guid: 49a6a3fc7cfabe74098974b417e3ebe0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White plastic
+    second: {fileID: 2100000, guid: d83692bd29586454ea95a7fb610bd68c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window Grid Glass
+    second: {fileID: 2100000, guid: 1e88fed9b714a364694718fe2e8fe485, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood Veneer Oak
+    second: {fileID: 2100000, guid: 6e8171ce1e5836c4c9a9c6d9dfbb33cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood.001
+    second: {fileID: 2100000, guid: 4c75f790440f26a4bb5af32cc9c1b6d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YellowPlasterPainted
+    second: {fileID: 2100000, guid: 88478e7df41c9f542aac9955d13e1356, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: openPBR_shader1.001
+    second: {fileID: 2100000, guid: ab55ba63a8fe42a47b9d9b4b0040249b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rubberized_track
+    second: {fileID: 2100000, guid: 6462a538137ebb04a87a356aa2a97518, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2K-blackboard-diffuse
+    second: {fileID: 2800000, guid: e6f120f2fc227cd40a5788e6fcd46d0b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2K-blackboard-normal
+    second: {fileID: 2800000, guid: 3456e11d80508fe4083e12837d7265b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2K-blackboard-specular
+    second: {fileID: 2800000, guid: cd138c5a3b5e741498ab7064b579797e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Diffuse
+    second: {fileID: 2800000, guid: 4af85ee52f215594a9e7da103d46e7bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Emmision
+    second: {fileID: 2800000, guid: d2d6e80f9fcddaf4aaa029a49d7d403c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fabric_Mesh_01_basecolor
+    second: {fileID: 2800000, guid: 9b9541a3d5de4744d898e4bfad968aca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fabric_Mesh_01_normalOGL
+    second: {fileID: 2800000, guid: 600b8532b65be164aaf70cb3e10cd784, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fabric_Mesh_01_roughness
+    second: {fileID: 2800000, guid: 53f9cfaa523e64c488119d1d6e00c6df, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "Floor_Tile_600\xD7600mm_basecolor"
+    second: {fileID: 2800000, guid: 29c954834f8f8ba4b837e4ca85270465, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "Floor_Tile_600\xD7600mm_normal"
+    second: {fileID: 2800000, guid: cf1f1b27b11e6094c82dc9ab5dee83dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "Floor_Tile_600\xD7600mm_roughness"
+    second: {fileID: 2800000, guid: b7cb8363ed7a26342a7a55b638785dc6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metallic
+    second: {fileID: 2800000, guid: dc4902d2781923f43ad089099bcd0eae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metalness
+    second: {fileID: 2800000, guid: 64dc3a7104493f445b736d15ebedc9c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Net 7_4K-JPG_Color
+    second: {fileID: 2800000, guid: d15c95d11ab34aa4896967a2a88e5336, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Net 7_4K-JPG_NormalGL
+    second: {fileID: 2800000, guid: a19d83f84a015db49888a731d1378af4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Net 7_4K-JPG_Opacity
+    second: {fileID: 2800000, guid: b1017645bfeae89418623b445428b75a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Net 7_4K-JPG_Roughness
+    second: {fileID: 2800000, guid: 47ea77067e04a5040af09bbe1968bda0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_CeramicPotteryGlazed_10828_BaseColor
+    second: {fileID: 2800000, guid: 5171de86e0b0a90448e4ecf2ab7adc21, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_CeramicPotteryGlazed_10828_Metallic
+    second: {fileID: 2800000, guid: 250e25878d139234982ee451bdd75979, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_CeramicPotteryGlazed_10828_Normal
+    second: {fileID: 2800000, guid: ccc08e95623068c43aa57728d1c18069, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_CeramicPotteryGlazed_10828_Roughness
+    second: {fileID: 2800000, guid: 3df9652b63df2be488da05b4b7332f8b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_ClayCeramicGlossy_5212_BaseColor
+    second: {fileID: 2800000, guid: 59a31c1ed598eee42b4d6c1326d0d0be, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_ClayCeramicGlossy_5212_Metallic
+    second: {fileID: 2800000, guid: 28920322e4f770f40ada57227e149f53, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_ClayCeramicGlossy_5212_Normal
+    second: {fileID: 2800000, guid: 23e4275edb927d24aa84e7414e191a81, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_ClayCeramicGlossy_5212_Roughness
+    second: {fileID: 2800000, guid: 9565a24e4cc62be4cb8d4503d416a6c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_ConcretePaversSquare_7100_BaseColor
+    second: {fileID: 2800000, guid: f16b04efde8715e47a1309bd92417a57, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_ConcretePaversSquare_7100_Metallic
+    second: {fileID: 2800000, guid: e7c2583f723e68d48bad5b725c558047, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_ConcretePaversSquare_7100_Normal
+    second: {fileID: 2800000, guid: 5a826b883e829a74098cd69a710db12a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_ConcretePaversSquare_7100_Roughness
+    second: {fileID: 2800000, guid: 8e19d25cc968a8f46a41062e29921842, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_MetalGalvanizedZinc_7184_BaseColor
+    second: {fileID: 2800000, guid: 321d6e56d55302d47871bb2bbc13a044, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_MetalGalvanizedZinc_7184_Metallic
+    second: {fileID: 2800000, guid: d6697d92fc9f4fc4aa4b6ca46c83161a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_MetalGalvanizedZinc_7184_Normal
+    second: {fileID: 2800000, guid: 4c8f6980594fa3e4aa5e83e85bed19c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_MetalGalvanizedZinc_7184_Roughness
+    second: {fileID: 2800000, guid: c10cda1b7e29d2145bc44f9255e804b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_PlasterPainted_7664_BaseColor
+    second: {fileID: 2800000, guid: 7052559a3cd5a7f479ec436e6e19a29d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_PlasterPainted_7664_Metallic
+    second: {fileID: 2800000, guid: 504cb5620f223b24893c3d2c2e31f64d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_PlasterPainted_7664_Normal
+    second: {fileID: 2800000, guid: 74cc696b047b1f74996fcff732055fb6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_PlasterPainted_7664_Roughness
+    second: {fileID: 2800000, guid: 9770338b74902b64faa403502fcd025e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_WoodVeneerOak_7760_BaseColor
+    second: {fileID: 2800000, guid: 62dca05770ccd62449ee47e22c02a22f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_WoodVeneerOak_7760_Metallic
+    second: {fileID: 2800000, guid: dff5786cdfd4d2245bb7fbac6d9f50a4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_WoodVeneerOak_7760_Normal
+    second: {fileID: 2800000, guid: ca7f7c7b1cdc4964681a57f717ff72a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Poliigon_WoodVeneerOak_7760_Roughness
+    second: {fileID: 2800000, guid: fd6f98682217d17458428110deba4bed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Roughness
+    second: {fileID: 2800000, guid: 59f71e3d738cad04ea8d3e267f1e9fa4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: book-fabric-1_roughness
+    second: {fileID: 2800000, guid: ae4a0c91a6dcb434ea4d6cd2d64a4fd8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: book-fabric-green_diffuse
+    second: {fileID: 2800000, guid: ef9d9e872fafb8446bc41d3785e7b5c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brushed02_diffuse
+    second: {fileID: 2800000, guid: 8988fd193a2ef9743a1164d0e9749927, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brushed02_metallic
+    second: {fileID: 2800000, guid: 154ac72ed993578429eeaf61d3fd91bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brushed02_normal_opengl
+    second: {fileID: 2800000, guid: dbf66dc94b2ba6943bdf713c6ea889c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brushed02_specular
+    second: {fileID: 2800000, guid: 8da1010b0b870744fb6ac1275b29b7ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: carpet_16_albedo
+    second: {fileID: 2800000, guid: 3fc61a3267390df4f82e81f8b15fa5e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: carpet_16_normal
+    second: {fileID: 2800000, guid: a3b95ae71435dfd40acbb0a6109309f8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: carpet_16_rough
+    second: {fileID: 2800000, guid: 4f97600f7cef5dd49a359fb22a8ea226, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ceiling_panel_Base_Color
+    second: {fileID: 2800000, guid: 3297372c490a9894b8041317341aa700, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ceiling_panel_Normal
+    second: {fileID: 2800000, guid: 5afe8b08068bcd0448795f9c79f3cffd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ceiling_panel_Roughness
+    second: {fileID: 2800000, guid: 37a181374981a984abb6b3c1f047792d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal01_metallic
+    second: {fileID: 2800000, guid: 915ec282771087d4bb605c53c79cf932, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal01_normal_opengl
+    second: {fileID: 2800000, guid: 31903d7d97d582645b094a8367002254, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal01_roughness
+    second: {fileID: 2800000, guid: dbda4402cd3121f48990929316a742f9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal01_specular
+    second: {fileID: 2800000, guid: 4cddfb7b3d3ed6f46b27255908f2cdbd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal01a_diffuse
+    second: {fileID: 2800000, guid: c0babb91f96ce8547ba966af8030e33e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal10_diffuse
+    second: {fileID: 2800000, guid: 49015b980f05937458b5cfb99043c017, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal_metallic
+    second: {fileID: 2800000, guid: 8d9f3f96f421553428978a9f814f4b9d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal_normal_opengl
+    second: {fileID: 2800000, guid: 2036cefb47140f047a1a57d7590858d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal_specular
+    second: {fileID: 2800000, guid: 62381a7fd17b6bf4aa621a77309bd39c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: painted_metal_diffuse
+    second: {fileID: 2800000, guid: 3fec1c97dc655f144a8a785dc28b06c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: painted_metal_metallic
+    second: {fileID: 2800000, guid: 0aa7dbc26eb938f4580ba53ac37e6274, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: painted_metal_normal_opengl
+    second: {fileID: 2800000, guid: b354a0c3cca630e459ba6b3047992a29, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: painted_metal_specular
+    second: {fileID: 2800000, guid: d71125b4294d56f4c8abbec90573be79, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: plastic06_diffuse
+    second: {fileID: 2800000, guid: 513492feb598d89418db19c88bd53a54, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: plastic06_normal_opengl
+    second: {fileID: 2800000, guid: 8f8019790aadef44db8bbb71a44736d1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: plastic06_specular
+    second: {fileID: 2800000, guid: 6c2dd84ce20c50743aded319271eae30, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rubberized_track_diff_8k
+    second: {fileID: 2800000, guid: 4343dccf8cada454b8cdad072e74957f, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
